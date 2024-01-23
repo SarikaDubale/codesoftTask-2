@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+}
+.navbar
+{
+    display:flex;
+    justify-content: center;
+    background-color: rgb(218, 231, 243);
+    padding: 10px;;
+}
+.navbar ul{
+    display: flex;
+    justify-content:center;
+    margin: 5px;
+    align-items:center;
+}
+
+.navbar ul li{
+    padding: 5px;
+    margin: 5px;
+    align-content: center;
+}
+
+.navbar ul li a{
+    padding: 5px;
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: black#5241e7;
+    margin: 5px;
+}
+.info{
+    margin-bottom: 50px;
+    max-width: 800px;
+    margin: 100px;
+
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.brand-heading {
+    color: rgb(10, 11, 11);
+    margin: 0;
+}
+
+
+
